@@ -1,0 +1,148 @@
+header {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	height: 7rem;
+	margin-bottom: 7rem;
+}
+
+.logo {
+	width: 100%;
+	height: 100%;
+}
+
+#logo {
+	position: relative;
+	width: 20rem;
+	height: 12.5rem;
+	padding: 1rem;
+	z-index: 5 !important;
+}
+
+#alert {
+	z-index: 0 !important;
+}
+
+.user {
+	cursor: pointer;
+}
+
+nav {
+	font-size: 1.3rem;
+	margin-top: 4rem;
+	margin-bottom: 2rem;
+}
+
+.error {
+	width: 100%;
+	color: #dc3545;
+	font-size: 80%;
+	font-weight: 400;
+	margin-top: .25rem;
+}
+
+.mw {
+	min-width: 15rem;
+}
+
+.article {
+	width: 100%;
+	height: auto;
+	margin-bottom: 7rem;
+}
+
+.article-login {
+	width: 100%;
+	height: auto;
+	margin-bottom: 15rem;
+}
+
+.carousel-control-next-icon {
+	background-image: url(../img/next.png) !important;
+	width: 3rem !important;
+	height: 3rem !important;
+}
+
+.carousel-control-prev-icon {
+	background-image: url(../img/prev.png) !important;
+	width: 3rem !important;
+	height: 3rem !important;
+}
+
+.card {
+	margin-bottom: 2rem;
+}
+
+.alert {
+	margin-bottom: 0 !important;
+}
+
+.overflow {
+	overflow-x: scroll !important;
+}
+
+.noverflow {
+	overflow: hidden;
+}
+
+.overflow table>tbody>tr>td {
+	max-width: 20rem;
+}
+
+#admin {
+	font-size: 1.7rem;
+}
+
+.card-body {
+	padding: 0.7rem !important;
+}
+
+.control-libro {
+	display: flex;
+	justify-content: space-between;
+}
+
+footer {
+	width: 100%;
+	height: auto;
+}
+
+a.disabled {
+	pointer-events: none;
+	cursor: default;
+}
+
+.liner {
+	width: 100%;
+	height: 30%;
+}
+
+.rrss {
+	width: 100%;
+	height: 70%;
+}
+
+.fab {
+	cursor: pointer;
+}
+
+.list-active {
+	background-color: #6C757D !important;
+}
+
+.topDown {
+	top: 3rem !important;
+}
+
+.pc {
+	width: 60rem;
+}
+
+.vacio {
+	padding-bottom: 20rem;
+}
+
+#infoImg {
+	width: 10rem;
+	height: 16rem;
+}
